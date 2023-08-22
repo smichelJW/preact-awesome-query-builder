@@ -8,6 +8,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@react-awesome-query-builder/ui": "^6.4.1",
 		"preact": "^10.13.1"
 	},
 	"devDependencies": {
